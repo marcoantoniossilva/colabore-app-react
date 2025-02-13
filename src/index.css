@@ -1,0 +1,17 @@
+:root {
+  --rosa-claro: #F9EFFA;
+  --rosa-escuro: #EACAEF;
+  --roxo-claro: #AA80CC;
+  --roxo-escuro: #65558F;
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  margin: 0;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

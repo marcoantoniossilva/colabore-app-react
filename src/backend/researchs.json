@@ -1,0 +1,39 @@
+[
+    {
+      "id": "1",
+      "name": "Plano de Saúde",
+      "description": "Esta pesquisa tem como objetivo avaliar a satisfação dos funcionários com o plano de saúde oferecido pela empresa. A saúde dos colaboradores é essencial para a produtividade e a moral no trabalho, e funcionários satisfeitos tendem a ter melhor desempenho e maior lealdade.\n\nSua participação é fundamental para identificar áreas de melhoria e adaptar os benefícios de saúde às necessidades dos colaboradores. As opiniões coletadas ajudarão a promover um ambiente de trabalho mais saudável e positivo. Agradecemos pela sua colaboração!",
+      "imgSrc": "pesquisa-plano-saude.png",
+      "publishedIn": "01/02/2025 14:27",
+      "availableUntil": "28/02/2025 23:59",
+      "tags": [1, 2]
+    },
+    {
+      "id": "2",
+      "name": "Jornada de Trabalho",
+      "description": "Avalia a percepção dos funcionários sobre a carga horária e flexibilidade.",
+      "imgSrc": "pesquisa-jornada-trabalho.png",
+      "publishedIn": "04/02/2025 17:20",
+      "availableUntil": "02/03/2025 23:59",
+      "tags": [2]
+    },
+    {
+      "id": "3",
+      "name": "Equipamentos do escritório",
+      "description": "Analisa a satisfação com os equipamentos e recursos disponíveis.",
+      "imgSrc": "pesquisa-equipamentos-escritorio.png",
+      "publishedIn": "05/02/2025 11:17",
+      "availableUntil": "06/03/2025 23:59",
+      "tags": [3]
+    },
+    {
+      "id": "4",
+      "name": "Gestores",
+      "description": "Coleta feedback sobre a liderança e a comunicação dos gestores.",
+      "imgSrc": "pesquisa-gestores.png",
+      "publishedIn": "08/02/2025 08:04",
+      "availableUntil": "20/03/2025 23:59",
+      "tags": [4]
+    }
+  ]
+  

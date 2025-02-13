@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "Benefícios",
+        "bgColor": "#DEE2F8"
+    },
+    {
+        "id": "2",
+        "name": "Qualidade de vida",
+        "bgColor": "#E2F8DE"
+    },
+    {
+        "id": "3",
+        "name": "Infraestrutura",
+        "bgColor": "#F8DEDE"
+    },
+    {
+        "id": "4",
+        "name": "Relações pessoais",
+        "bgColor": "#DEF6F8"
+    }
+]
